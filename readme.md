@@ -19,6 +19,6 @@ npm run dev
 
 This is a incomplete project - features to be added 
 ---------------------------------------------------------
-- [ ] 사진 + 모자이크 저장
-- [ ] undo / reundo 기능
-- [ ] 리사이징 안정화
+- [ ] save a picture
+- [ ] undo / reundo
+- [ ] stable resizing
