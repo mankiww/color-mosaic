@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+    <link rel="stylesheet" href="/src/style.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Color Mosaic</title>
+  </head>
+  <body>
+    <header>
+      <h1>Do your mosaic!!</h1>
+      <input id="image-input" type="file" accept="image/*">
+      <label for="size-input">Mosaic Size</label>
+      <input id="size-input" type="number" value="50">
+    </header>
+    <section id="main">
+      <span class="pointer"></span>
+    </section>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

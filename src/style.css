@@ -1,0 +1,36 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  flex: 0.2;
+}
+
+section {
+  position: relative;
+  flex: 0.8;
+  margin-top: 20px;
+  height: 100%;
+}
+
+img {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  z-index: -20;
+}
+
+.hidden {
+  display: none;
+}
+
+.pointer {
+  position: absolute;
+  border: dashed 2px black;
+  cursor: none;
+}
+
+canvas {
+  cursor: none;
+}
