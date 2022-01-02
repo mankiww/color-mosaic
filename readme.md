@@ -17,7 +17,7 @@ npm run dev
 - Set the size of mosaic
 - Click!
 
-todo
+Next Features
 ---------------------------------------------------------
 - [ ] 사진 + 모자이크 저장
 - [ ] undo / reundo 기능
