@@ -4,7 +4,7 @@ preview
 ---------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/72963478/147876670-348004af-64f6-487a-a4b2-165b9f58ca1c.png)
 
-How to Play?
+How to Play
 ---------------------------------------------------------
 - install & start
 ```
