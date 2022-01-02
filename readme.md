@@ -10,7 +10,7 @@ How to Play
 ```
 npm clone https://github.com/mankiww/color-mosaic.git
 npm install
-npm start
+npm run dev
 ```
 
 - Upload your picture
